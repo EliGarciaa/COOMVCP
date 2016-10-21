@@ -5,6 +5,7 @@ header {
 
 .main {
 	background:#f2f2f2;
+	color:#fff;
 }
 
 .color1 {
@@ -12,12 +13,7 @@ header {
 	color:#fff;
 }
 
-aside {
-	background:#c0392b;
-	color:#fff;
-}
-
-footer {
-	background:#16a085; 
+.aside {
+	background:#f2f2f2;
 	color:#fff;
 }
